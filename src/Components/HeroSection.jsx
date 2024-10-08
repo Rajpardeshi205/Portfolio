@@ -97,7 +97,7 @@ const HeroSection = () => {
               className="w-8 mt-4 h-8"
             />
           </a>
-          <a href="/Resume.pdf" download>
+          <a href="./Resume.pdf" download>
             <motion.div
               variants={container2(4)}
               initial="hidden"
